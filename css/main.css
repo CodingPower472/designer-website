@@ -24,4 +24,5 @@
 .why li {
   font-weight: 300;
   font-style: italic;
+  list-style: none;
 }
